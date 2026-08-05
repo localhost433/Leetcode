@@ -1,4 +1,4 @@
 # 0674. Longest Continuous Increasing Subsequence
-## Easy | Runtime: 5.86% | Memory: 45.73%
+## Easy
 
 https://leetcode.com/problems/longest-continuous-increasing-subsequence/
